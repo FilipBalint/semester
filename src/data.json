@@ -1,0 +1,147 @@
+{
+    "zoznamRelease": [
+      {
+        "id": 1,
+        "nazov": "Nike Air Force 1 low",
+        "image": "1.jpg",
+        "price": "120€",
+        "sex": "unisex",
+        "size": "36-44",
+        "datum": "12.1.2024"
+      },
+      {
+        "id": 2,
+        "nazov": "Nike Air Max Plus",
+        "image": "2.jpg",
+        "price": "180€",
+        "sex": "unisex",
+        "size": "36-44",
+        "datum": "15.1.2024"
+      },
+      {
+        "id": 3,
+        "nazov": "New Balance 1906R",
+        "image": "3.jpg",
+        "price": "150€",
+        "sex": "unisex",
+        "size": "36-44",
+        "datum": "16.1.2024"
+      },
+      {
+        "id": 4,
+        "nazov": "Nike Dunk Low Purple Court",
+        "image": "4.jpg",
+        "price": "120€",
+        "sex": "unisex",
+        "size": "36-44",
+        "datum": "1.2.2024"
+      },
+      {
+        "id": 5,
+        "nazov": "NIKE AIR MAX VALENTINE'S DAY",
+        "image": "5.jpg",
+        "price": "160€",
+        "sex": "woman",
+        "size": "36-42",
+        "datum": "15.2.2024"
+      },
+      {
+        "id": 6,
+        "nazov": "Nike Air Footscape Woven",
+        "image": "6.jpg",
+        "price": "160€",
+        "sex": "unisex",
+        "size": "36-44",
+        "datum": "18.2.2024"
+      },
+      {
+        "id": 7,
+        "nazov": "Nike air Foamposite One",
+        "image": "7.jpg",
+        "price": "240€",
+        "sex": "unisex",
+        "size": "36-44",
+        "datum": "20.2.2024"
+      },
+      {
+        "id": 8,
+        "nazov": "Nike Zoom Vomero 5",
+        "image": "8.jpg",
+        "price": "160€",
+        "sex": "unisex",
+        "size": "36-44",
+        "datum": "21.2.2024"
+      }
+    ],
+
+
+    "blog": [
+      {
+        "id": 1,
+        "image":"15.jpg",
+        "nazov": "Mužské trendy v roku 2024",
+        "popis": "Hitom budú tvídové modely, ktoré preslávili módny dom Chanel, široké nohavice a šortky pod kolená či armádny štýl v novom šate, ktorý si zamiluješ. Toto sú tipy a triky, vďaka ktorým ovládneš nasledujúcich 12 mesiacov. Nezáleží na tom, či si extrovert alebo introvert, tieto outfity využiješ v kancelárii, ale aj na večernom drinku s priateľmi. ",
+        "odkaz": "https://refresher.sk/151775-Muzske-trendy-v-roku-2024-Hitom-budu-siroke-nohavice-zvieracie-vzory-tvid-aj-hackovane-svetre"
+      },
+      {
+        "id": 2,
+        "image":"11.jpg",
+        "nazov": "Louis Vuitton od Pharrella Williamsa",
+        "popis": "Pharrell Williams predstavil svoju tretiu kolekciu pre Louis Vuitton, tentoraz v Paríži počas najsledovanejšieho týždňa módy. Publiku v zábavnom parku Jardin d'Acclimatation ukázal mužské návrhy na sezónu jeseň/zima 2024. Väčšinu z nich spájala westernová estetika a prvky workwearu v luxusnom vyhotovení.",
+        "odkaz": "https://refresher.sk/152363-VIDEO-Pozri-si-novu-muzsku-kolekciu-Louis-Vuitton-od-Pharrella-Williamsa-Westernova-estetika-pohltila-Pariz"
+      },
+      {
+        "id": 3,
+        "image":"12.jpg",
+        "nazov": "Svetové módne novinky, ktoré zoženieš na Slovensku",
+        "popis": "Online obchod Footshop nemá v našich končinách takmer žiadnu silnú konkurenciu minimálne v tom, aké novinky dokáže dostať do svojej ponuky. Ako jeden z mála slovenských predajcov s obuvou a oblečením pravidelne prináša množstvo zaujímavých značiek, limitovaných kolekcií či exkluzívnych spoluprác. ",
+        "odkaz": "https://refresher.sk/152212-Svetove-modne-novinky-ktore-zozenies-na-Slovensku-Mikiny-a-tricka-Carhartt-WIP-bundy-C-P-Company-aj-obuv-Asics-a-New-Balance"
+      },
+      {
+        "id": 4,
+        "image":"13.jpg",
+        "nazov": "Pánske strihy 2024",
+        "popis": "Nové a odvážne trendy nás nečakajú len v móde, ale aj v beauty svete. Sezóna 2024 je oficiálne otvorená a my ti hneď v úvode roka dávame šancu na zmenu. Čo sa bude tento rok nosiť, ale aj na aký účes staviť (či nestaviť) nám prezradil šéf MMG Freedrom Barbers & Shop a vlasový expert Maroš „Benzo“ Ihnát.",
+        "odkaz": "https://refresher.sk/151624-Panske-strihy-2024-Chces-byt-radsej-Jagr-Peaky-Blinder-alebo-barokovy-anjelicek"
+      }
+    ],
+
+    
+    "fits": [
+      {
+        "id": 1,
+        "image":"f1.JPG",
+        "bunda": "https://www.zalando.sk/yourturn-mikina-blue-yo12100w6-k12.html",
+        "nohavice": "https://www.zalando.sk/levis-workwear-568-stay-loose-carpenter-dzinsy-volneho-strihu-blue-denim-lgv22e000-k11.html",
+        "topanky": "https://www.zalando.sk/nike-sportswear-dunk-retro-tenisky-whiteblack-ni112o0gn-a11.html"
+      },
+      {
+        "id": 2,
+        "image":"f2.JPG",
+        "bunda": "https://www.zalando.sk/bershka-lahka-bunda-black-bej21g0ic-t11.html",
+        "nohavice": "https://www.zalando.sk/levis-skateboarding-skate-crop-carpenter-dzinsy-volneho-strihu-skate-carpenter-hazy-ley22g009-k11.html",
+        "topanky": "https://www.zalando.sk/new-balance-ml610-unisex-tenisky-dark-mushroom-ne215o0b9-o11.html"
+      },
+      {
+        "id": 3,
+        "image":"f3.JPG",
+        "bunda": "https://www.zalando.sk/pepe-jeans-dean-crew-neck-svetrik-dulwich-blue-pe122q05g-k11.html",
+        "nohavice": "https://www.zalando.sk/yourturn-baggy-fit-unisex-dzinsy-volneho-strihu-dark-blue-denim-yo121010x-k11.html",
+        "topanky": "https://www.zalando.sk/salomon-xt-6-unisex-tenisky-blackphantom-sa515o001-q11.html"
+      },
+      {
+        "id": 4,
+        "image":"f4.JPG",
+        "bunda": "https://www.zalando.sk/diesel-muds-kozena-bunda-black-di122t0d4-q11.html",
+        "nohavice": "https://www.zalando.sk/pullandbear-zvonove-dzinsy-beige-puc22g0pm-b11.html",
+        "topanky": "https://www.zalando.sk/adidas-originals-handball-spezial-unisex-tenisky-shadow-brownfootwear-whitegum-ad115o1mg-o11.html"
+      },
+      {
+      "id": 5,
+        "image":"f5.JPG",
+        "bunda": "https://www.zalando.sk/carhartt-wip-active-jacket-zimna-bunda-black-stone-washed-c1422t0aj-q11.html",
+        "nohavice": "https://www.zalando.sk/bershka-faded-effect-skater-dzinsy-volneho-strihu-black-bej22g09o-q11.html",
+        "topanky": "https://www.zalando.sk/ugg-classic-ultra-mini-klasicke-clenkove-cizmy-chestnut-ug112k01d-o11.html"
+      }
+    ]
+  }
